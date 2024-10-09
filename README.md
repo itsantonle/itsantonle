@@ -23,7 +23,7 @@ Digital Media:
 Want to collaborate in code? I usually take up the role as a Backend Developer and have experience in making games. 
 Currently trying to find time to gain experiences in the programming workfield. 
 
-I have elaborate experience in: 
+I have moderate experience in: 
 - Java
 - MERN
 - Javascript games (with HTML Canvas)
