@@ -4,7 +4,8 @@ It's nice to meet you! You can call me Anton 🐇🦄
 I'm currently working as a Graphics and Media Artist and studying Software Engineering.
 
 Need game assets? Need svgs or Figma related work? Please shoot me an email to see my portfolio or for a chat!
-Experience
+
+Experience: 
 
 2d Rigging: 
 - Spine2d
