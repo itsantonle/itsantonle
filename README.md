@@ -7,10 +7,10 @@ Need game assets? Need svgs or Figma related work? Please shoot me an email to s
 
 Experience: 
 2d Rigging: 
--Spine2D
+-Spine2d
+-DragonBones
+-Adobe Aftereffects
 -Live2d Cubism (*)
--DragonBonesPro
--Adobe AfterEffects
 
 Digital Media: 
 - Clip Studio Paint
