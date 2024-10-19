@@ -27,12 +27,15 @@ I have moderate experience in:
 - Java
 - MERN
 - Javascript games (with HTML Canvas)
-- Python 
+- Python
+- ORDMS
 
 Currently dabbling in:
 - Typescript
 - Scala
 - Godot with GDscript
+- PERN
+- RDMS 
 
 Worked with (I've worked with these before, but have not dabbled in a long time): 
 - Flutter
