@@ -1,7 +1,8 @@
 # Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
 It's nice to meet you! You can call me Anton 🐇🦄
-I'm currently working as a Graphics and Media Artist and studying Software Engineering.
+I'm currently working as a Graphics and Media Artist and Freelance Model Rigger!
+Currently in school studying Software Engineering.
 
 Need game assets? Need svgs or Figma related work? Please shoot me an email to see my portfolio or for a chat!
 
