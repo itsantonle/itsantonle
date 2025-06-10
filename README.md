@@ -11,13 +11,19 @@
 📧(Email): tonilegayada@gmail.com
 
 ### ⚙️Portfolios
+<details>
+<summary>Section for Portfolios!</summary>
+<br>
 🖼️(Art Portfolio) (WIP) : 
-
 🧰(Rig Portofolio) (WIP) :
+🖥️(Developer Portfolio) (WIP):   
+</details>
 
-🖥️(Developer Portfolio) (WIP): 
 
 ### 📈Experience
+<details>
+<summary>Section for Experiences!</summary>
+<br>
 🌐 Web Development: 
 - TypeScript, Java
 - React, Vite, NextJs with strong middleware and **backend focus**
@@ -39,6 +45,7 @@
 - Experience HTML 5 Canvas
 
 ⚙️Misc: 
+</details>
 
 
 
