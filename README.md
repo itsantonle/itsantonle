@@ -1,52 +1,54 @@
-# Hi there! ૮ ˶ᵔ ᵕ ᵔ˶ ა
+# Hello...⸜(｡˃ ᵕ ˂ )⸝♡ 
+**👧She/Her** | **🦄Unicorn**
+<br>
+- You can call me **Anton!**
+- I'm currently working as a freelance **digital artist** and **graphics rigger** !
+- I have nearly a **decade** of experience in **digital art and media** and about **2 years** experience of being a 2d rigger artist especially with tools like **Spine2d and Dragonbones.** + **Adobe AfterEffects**
+- I've also been a **contributor/circle** in several fanzines, indie projects... etc!
+- I'm also currently a Software Engineering Student with the role of **backend developer** preferably. I can also do fullstack.
+- That being said I'm experience in working with **agile** teams and the **SCRUM** agile framework!
+### 📞Social Links
+📧(Email): tonilegayada@gmail.com
 
-It's nice to meet you! You can call me Anton 🐇🦄
-I'm currently working as a Graphics and Media Artist and Freelance Model Rigger!
-Currently in school studying Software Engineering.
+### ⚙️Portfolios
+🖼️(Art Portfolio) (WIP) : 
 
-Need game assets? Need svgs or Figma related work? Please shoot me an email to see my portfolio or for a chat!
+🧰(Rig Portofolio) (WIP) :
 
-Experience: 
+🖥️(Developer Portfolio) (WIP): 
 
-2d Rigging: 
-- Spine2d
-- DragonBonesPro
-- Adobe Aftereffects
-- Live2d Cubism
-- I can probably work on most game engine's spine/skeletal animation system 
+### 📈Experience
+🌐 Web Development: 
+- TypeScript, Java
+- React, Vite, NextJs with strong middleware and **backend focus**
+- Prisma ORM, Mongoose ORM, some experience with Hibernate ORM
+- SQL, NoSQL, PGSQL most of the time for relational
+- Focus on Node.JS with Express, past experience with SpringBoot
+- Comfortabe with MERN stack
 
-Digital Media: 
-- Clip Studio Paint
-- Photoshop
-- Adobe Illustrator
-
-
-Want to collaborate in code? I usually take up the role as a Backend Developer and have experience in making games. 
-Currently trying to find time to gain experiences in the programming workfield. 
-
-I have moderate experience in: 
-- Java
-- MERN
-- Javascript games (with HTML Canvas)
-- Python
-- ORDMS
-
-Currently dabbling in:
-- Typescript
-- Scala
-- Godot with GDscript
-- PERN
-- RDMS 
-
-Worked with (I've worked with these before, but have not dabbled in a long time): 
-- Flutter
-- C languages (C#, C and C++)
-- Go
-
-Very interested in learning: 
-- Rust
-- Kotlin
-- Swift
-- Any language similar that runs on the JVM or is statically typed : )
+🖼️Art: 
+- Decade long experience with sophisticated software like Clip Studio Paint and Adobe Photoshop
+- 2d Animation experience with CSP and Photoshop
+- Logo and Design experience with Vector art in programs like Adobe Illustrator
+- Rigging experience in Dragonbones Pro or Spine2d
   
+🕹️Game Development: 
+- Past experience with Pygame
+- Working more on Godot
+- Experience with PhaserJS
+- Experience HTML 5 Canvas
+
+⚙️Misc: 
+
+
+
   
+
+
+
+  
+
+
+
+
+
