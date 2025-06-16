@@ -28,9 +28,9 @@
 🌐 Web Development: 
 - TypeScript, Java
 - React, Vite, NextJs with strong middleware and **backend focus**
-- Prisma ORM, Mongoose ORM, some experience with Hibernate ORM
+- Prisma ORM, Mongoose ORM, some experience with Hibernate ORM and Gorm ORM
 - SQL, NoSQL, PGSQL most of the time for relational
-- Focus on Node.JS with Express, past experience with SpringBoot
+- Focus on Node.JS with Express, past experience with SpringBoot and Gin
 - Comfortabe with MERN stack
 
 🖼️Art: 
