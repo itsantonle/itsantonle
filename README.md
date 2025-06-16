@@ -7,6 +7,7 @@
 - I've also been a **contributor/circle** in several fanzines, indie projects... etc!
 - I'm also currently a Software Engineering Student with the role of **backend developer** preferably. I can also do fullstack.
 - That being said I'm experience in working with **agile** teams and the **SCRUM** agile framework!
+- Interested in LLM and DeepLearning : > 
 ### 📞Social Links
 📧(Email): tonilegayada@gmail.com
 
