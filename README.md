@@ -31,7 +31,7 @@
 [![Website](https://img.shields.io/badge/Website-Portfolio-24292e?style=flat&logo=githubpages&logoColor=white)](https://your-website-url.com)
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsantonle&layout=compact&theme=tokyonight)
+
 ### 🧰 Portfolios
 
 <details>
@@ -71,3 +71,4 @@
 - Canvas animation with HTML5  
 
 </details>
+
