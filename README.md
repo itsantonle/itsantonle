@@ -1,63 +1,73 @@
-# Hello...⸜(｡˃ ᵕ ˂ )⸝♡ 
-**👧She/Her** | **🦄Unicorn**
-<br>
-- You can call me **Anton!**
-- I'm currently working as a freelance **digital artist** and **graphics rigger** !
-- I have nearly a **decade** of experience in **digital art and media** and about **2 years** experience of being a 2d rigger artist especially with tools like **Spine2d and Dragonbones.** + **Adobe AfterEffects**
-- I've also been a **contributor/circle** in several fanzines, indie projects... etc!
-- I'm also currently a Software Engineering Student with the role of **backend developer** preferably. I can also do fullstack.
-- That being said I'm experience in working with **agile** teams and the **SCRUM** agile framework!
-- Interested in LLM and DeepLearning : > 
-### 📞Social Links
-📧(Email): tonilegayada@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hello!%20I'm%20Anton!" alt="Typing SVG" />
+</p>
 
-### ⚙️Portfolios
+<p align="center">
+  🌸<img src="https://img.shields.io/badge/Pronouns-She%2FHer-pink?style=flat-square">🌸
+</p>
+
+---
+
+
+
+### 🌸 About Me
+
+- 🎨 Freelance **Digital Artist** and **2D Graphics Rigger**
+- 🕊️ More than **half a decade** of experience in digital art & media
+- 🛠️ 2 years of rigging with **Spine2D**, **DragonBones**, and **Adobe After Effects**
+- 🖌️ Contributor to various **fanzines** and **indie creative projects**
+- 💻 Software Engineering student — specializing in **backend** (but I’m cool with fullstack!)
+- 🧠 Enthusiast of **Agile** methodologies and the **SCRUM** framework
+- 🤖 Passionate about **LLMs**, **deep learning**, and systems that feel alive!
+
+
+
+
+
+### 🌐 Social Links
+
+[![Gmail](https://img.shields.io/badge/Gmail-tonilegayada@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tonilegayada@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
+[![Website](https://img.shields.io/badge/Website-Portfolio-24292e?style=flat&logo=githubpages&logoColor=white)](https://your-website-url.com)
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsantonle&layout=compact&theme=tokyonight)
+### 🧰 Portfolios
+
 <details>
-<summary>Section for Portfolios!</summary>
-<br>
-🖼️(Art Portfolio) (WIP) : 
-🧰(Rig Portofolio) (WIP) :
-🖥️(Developer Portfolio) (WIP):   
+<summary>🖼️ Click to view portfolio links</summary>
+<br/>
+
+- 🎨 Art Portfolio: *(WIP)*  
+- 🧩 Rigging Portfolio: *(WIP)*  
+- 💻 Developer Portfolio: *(WIP)*  
+
 </details>
 
+---
 
-### 📈Experience
+### 🌱 Experience & Tools
+
 <details>
-<summary>Section for Experiences!</summary>
-<br>
-  
-🌐 Web Development: 
-- TypeScript, Java
-- React, Vite, NextJs with strong middleware and **backend focus**
-- Prisma ORM, Mongoose ORM, some experience with Hibernate ORM and Gorm ORM
-- SQL, NoSQL, PGSQL most of the time for relational
-- Focus on Node.JS with Express, past experience with SpringBoot and Gin
-- Comfortabe with MERN stack
+<summary>👩‍💻 Click to expand</summary>
+<br/>
 
-🖼️Art: 
-- Decade long experience with sophisticated software like Clip Studio Paint and Adobe Photoshop
-- 2d Animation experience with CSP and Photoshop
-- Logo and Design experience with Vector art in programs like Adobe Illustrator
-- Rigging experience in Dragonbones Pro or Spine2d
-  
-🕹️Game Development: 
-- Past experience with Pygame
-- Working more on Godot
-- Experience with PhaserJS
-- Experience HTML 5 Canvas
+#### 🌐 Web Development:
+- TypeScript, Java  
+- React, Vite, Next.js (with backend emphasis)  
+- Prisma ORM, Mongoose, GORM, Hibernate  
+- PostgreSQL, MongoDB, and SQL databases  
+- Node.js with Express | experience with Spring Boot and Gin  
 
-⚙️Misc: 
+#### 🖌️ Art & Rigging:
+- Advanced use of Clip Studio Paint, Adobe Photoshop  
+- 2D Animation in Photoshop, CSP  
+- Vector design with Adobe Illustrator  
+- Rigging in **DragonBones Pro** and **Spine2D**  
+
+#### 🕹️ Game Development:
+- Pygame for early-stage game logic  
+- PixiJS, Godot, PhaserJS for web & engine-based games  
+- Canvas animation with HTML5  
+
 </details>
-
-
-
-  
-
-
-
-  
-
-
-
-
-
